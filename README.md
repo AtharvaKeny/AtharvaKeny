@@ -1,5 +1,5 @@
 # 👾 About Me:
-I Type Something Then Keep Rewriting It,Till It Works.
+I Type Something, Then Keep Rewriting It Till It Works.
 
 
 ## 🌐 Socials:
