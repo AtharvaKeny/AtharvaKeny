@@ -22,7 +22,7 @@ I Type Something, Then Keep Rewriting It Till It Works.
 ![](https://github-contributor-stats.vercel.app/api?username=AtharvaKeny&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='[https://randommeme-five.vercel.app/](https://i.redd.it/debugging-tools-like-gdb-exists-v0-zvfo41di5vwb1.png?s=d0fbc726f64466cd7d6b4ee1ab3c8cd6637b6ac5)' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AtharvaKeny&icon=0&color=0)](https://visitcount.itsvg.in)
